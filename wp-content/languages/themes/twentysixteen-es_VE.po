@@ -1,0 +1,240 @@
+# Translation of Themes - Twenty Sixteen in Spanish (Venezuela)
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 00:58:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es_VE\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Sixteen"
+msgstr "Twenty Sixteen"
+
+#: inc/customizer.php:324
+msgid "Red"
+msgstr "Rojo"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: functions.php:167
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Añadir widgets para que aparezcan en la sidebar."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Destacado"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez la búsqueda le pueda ayudar."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento pero no hay nada que se ajuste a tus criterios de búsqueda. Por favor, inténtalo de nuevo con palabras claves distintas."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas por %s"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Autor:"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: single.php:41
+msgid "Previous"
+msgstr "Anterior"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#: single.php:38
+msgid "Next"
+msgstr "Siguiente"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda por: %s"
+
+#: inc/template-tags.php:112
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/template-tags.php:103
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/template-tags.php:99 inc/template-tags.php:108
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:83
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publicado en"
+
+#: inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Formato"
+
+#: inc/template-tags.php:52
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deje un comentario <span class=\"screen-reader-text\">en %s</span>"
+
+#: inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autor"
+
+#: inc/customizer.php:334
+msgid "Yellow"
+msgstr "Amarillo"
+
+#: inc/customizer.php:314
+msgid "Gray"
+msgstr "Gris"
+
+#: inc/customizer.php:304
+msgid "Dark"
+msgstr "Negro"
+
+#: inc/customizer.php:294
+msgid "Default"
+msgstr "Predeterminado"
+
+#: inc/customizer.php:145
+msgid "Base Color Scheme"
+msgstr "Esquema de color base"
+
+#: image.php:107 single.php:31
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicado en</span><span class=\"post-title\">%title</span>"
+
+#: image.php:77
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Tamaño completo"
+
+#: image.php:58 template-parts/content-page.php:24
+#: template-parts/content-single.php:26 template-parts/content.php:36
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Imagen siguiente"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Imagen anterior"
+
+#: header.php:49
+msgid "Menu"
+msgstr "Menú"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: functions.php:302
+msgid "collapse child menu"
+msgstr "colapsar menú hijo"
+
+#: functions.php:301
+msgid "expand child menu"
+msgstr "expandir menú hijo"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:227
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "Activo"
+
+#: functions.php:165
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:92 header.php:66
+msgid "Social Links Menu"
+msgstr "Menú de enlaces de Redes Sociales"
+
+#: functions.php:91 header.php:53
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:61
+msgid "Proudly powered by %s"
+msgstr "Creado con %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: archive.php:53 image.php:62 index.php:50 search.php:41
+#: template-parts/content-page.php:28 template-parts/content-single.php:30
+#: template-parts/content.php:40
+msgid "Page"
+msgstr "Página"
+
+#: archive.php:52 index.php:49 search.php:40
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: archive.php:51 index.php:48 search.php:39
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en esa ubicación ¿quieres probar a buscar?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Está página no se encuentra."
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "el equipo WordPress"
+
+#. #-#-#-#-#  twentysixteen.pot (Twenty Sixteen 1.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:60
+msgid "https://wordpress.org/"
+msgstr "https://ve.wordpress.org/"
